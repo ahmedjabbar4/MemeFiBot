@@ -54,7 +54,7 @@ upd: update this bot (just restart or use command:)
 You can download [**Repository**](https://github.com/sibiprod/MemeFiBot) by cloning it to your system and installing the necessary dependencies:
 
 ```shell
-~ >>> git clone https://github.com/sirbiprod/MemeFiBot.git
+~ >>> git clone https://github.com/ahmedjabbar4d/MemeFiBot.git
 ~ >>> cd MemeFiBot
 
 #Linux and MacOS
